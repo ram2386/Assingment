@@ -4,7 +4,7 @@ A department manager needs a feature in an app to keep track of their team membe
 Overview of the application
 1) Display the employee name and their profile pic.
 2) Display the detail screen which shows the name, age and salary of the selected employee.
-3) Apply the sorting on employee age and name.
+3) Apply the sorting on employee's age and name.
 4) Delete the employee from the list.
 5) Display the employee list in offline mode.
 
