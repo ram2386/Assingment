@@ -1,4 +1,4 @@
-# Assingment
+# Assignment
 A department manager needs a feature in an app to keep track of their team members.
 
 Please find the below steps to install the application.
