@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.0.0)
+  - BottomPopup (0.6.0)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - SwiftOverlays (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - BottomPopup
+  - RxCocoa
+  - RxSwift (~> 5)
+  - SwiftOverlays (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BottomPopup
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SwiftOverlays
+
+SPEC CHECKSUMS:
+  Alamofire: 58ff2bfb8daaacaa233d5c36e37b10a5248f59b1
+  BottomPopup: 1d5649a3b29396238f0e8f3c82075a7bfcf37ba7
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  SwiftOverlays: ab459ea9194b0e96aaccaa00e9ead1bf6d46eef1
+
+PODFILE CHECKSUM: 2575ddc71103e874dd744e7c0ff4b4c28fd900da
+
+COCOAPODS: 1.8.3
